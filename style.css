@@ -4,3 +4,29 @@
   box-sizing: border-box;
   text-decoration: none;
 }
+.container{
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 14px 26px;
+}
+
+
+.section{
+  background-color: blueviolet;
+  min-height: 300px;
+  display: flex;
+  justify-content: space-between;
+
+}
+ 
+.herobox1{
+  width: 40%;
+  background-color: bisque;
+  min-height: 200px;
+}
+.herobox2{
+  width: 40%;
+  background-color: rgb(117, 8, 84);
+  min-height: 200px;
+}
+
